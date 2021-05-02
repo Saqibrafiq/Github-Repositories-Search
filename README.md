@@ -1,4 +1,4 @@
-# Github Repo Finder
+# Github Repositories Search
 
 ## dependancies
 
@@ -18,9 +18,9 @@
 
 ## Run Client and server
 
-1. back to project directory by `cd ..`.
+1. To project directory by `cd ..`.
 
-2. write `npm run dev` to run both server and client.
+2. Write `npm run dev` to run both server and client.
 
 ## API Endpoints Table
 
