@@ -1,5 +1,8 @@
 # Github Repositories Search
 
+![1](https://user-images.githubusercontent.com/14060649/116814401-1ce2d980-ab59-11eb-88b6-56fa85532fe0.jpg)
+![2](https://user-images.githubusercontent.com/14060649/116814403-1d7b7000-ab59-11eb-8ec5-23cc339640cf.jpg)
+
 ## dependancies
 
 - node
